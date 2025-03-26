@@ -1,4 +1,4 @@
-# (Nombre del proyecto)  
+# EL GOL DEL FUTURO
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
