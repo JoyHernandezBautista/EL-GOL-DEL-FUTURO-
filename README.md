@@ -8,7 +8,8 @@ Univesidad de Granada
 ----
 
 
-![img](Santiago Rios.png)
+![img](SantiagoRios.png)
+
 **Titulo** : _______
 
 **Autor(es)** ______________
