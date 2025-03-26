@@ -1,7 +1,5 @@
 # EL GOL DEL FUTURO
 
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
-
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia) <br>
 [Master de Nuevos medios interactivos y periodismo multimedia](https://masteres.ugr.es/newmedia-periodismo-multimedia/) <br>
 Facultad de Comunicación y Documentación <br>
@@ -10,7 +8,7 @@ Univesidad de Granada
 ----
 
 
-![img](5seconds.png)
+![img](Santiago Rios.png)
 **Titulo** : _______
 
 **Autor(es)** ______________
